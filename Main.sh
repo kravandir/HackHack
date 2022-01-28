@@ -1,4 +1,4 @@
-echo vk.com/kravatb
+echo взлом
 
 echo localhost:8080 - ссылка
 
